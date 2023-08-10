@@ -1,9 +1,9 @@
 [
   {
-    "name": "Heartbeat Frontend",
+    "name": "Heartbeat Interface",
     "url": "https://heartbeat.exchange",
     "icon": "https://icons.duckduckgo.com/ip3/heartbeat.exchange.ico",
-    "slug": "heartbeat-frontend",
+    "slug": "heartbeat-interface",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
