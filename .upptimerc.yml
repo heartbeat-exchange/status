@@ -2,7 +2,7 @@ owner: heartbeat-exchange
 repo: uptime
 
 sites:
-  - name: Heartbeat Frontend
+  - name: Heartbeat Interface
     url: https://heartbeat.exchange
   - name: Heartbeat API/Indexer (Klaytn)
     url: https://api-klaytn.heartbeat.exchange
