@@ -6,6 +6,7 @@ sites:
     url: https://heartbeat.exchange
   - name: Heartbeat API/Indexer (Klaytn)
     url: https://api-klaytn.heartbeat.exchange
+    favicon: https://github.com/klaytn.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
