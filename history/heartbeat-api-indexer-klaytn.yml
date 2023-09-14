@@ -1,7 +1,7 @@
 url: https://api-klaytn.heartbeat.exchange
-status: down
-code: 530
-responseTime: 291
-lastUpdated: 2023-09-14T03:44:04.037Z
+status: up
+code: 200
+responseTime: 979
+lastUpdated: 2023-09-14T03:51:05.029Z
 startTime: Thu Aug 10 2023 08:21:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
